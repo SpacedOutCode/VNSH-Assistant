@@ -1,0 +1,37 @@
+[ 
+        [
+            "discord",
+            "C:/Users/Public/Desktop/Discord.lnk",
+            "Discord.exe"
+        ],
+        [
+            "spotify",
+            "C:/Users/Public/Desktop/Spotify.lnk",
+            "Spotify.exe"
+        ],
+        [
+            "steam",
+            "C:/Users/Public/Desktop/Steam.lnk",
+            "Steam.exe"
+        ],
+        [
+            "fortnite",
+            "C:/Users/Public/Desktop/Fortnite.url",
+            "FortniteClient-Win64-Shipping.exe"
+        ],
+        [
+            "google",
+            "C:/Users/Public/Desktop/Google.lnk",
+            "chrome.exe"
+        ],
+        [
+            "vscode",
+            "C:/Users/Public/Desktop/Visual Studio Code.lnk",
+            "Code.exe"
+        ], 
+        [
+            "gta",
+            "C:/Users/Public/Desktop/gta.url",
+            ""
+        ]
+    ]
